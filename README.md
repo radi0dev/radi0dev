@@ -1,7 +1,7 @@
 # radi0dev
 
 * [homepage](https://self.radi0.cc)
-* [forgejo](https://git.radi0.cc)
+* [forgejo](https://git.radi0.cc/radi0dev)
 
 ---
 
