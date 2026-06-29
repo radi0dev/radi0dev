@@ -1,7 +1,11 @@
 # radi0dev
 
 * [homepage](https://self.radi0.cc)
-* [forgejo](https://git.radi0.cc/radi0dev)
+* [forgejo](https://git.radi0.cc/radi0dev) <- all repos here
+
+---
+
+[![icons](https://skillicons.dev/icons?i=linux,arch,bash,git,vim,c,cpp,fediverse&theme=dark)](https://skillicons.dev)
 
 ---
 
